@@ -1,10 +1,8 @@
 cff-version: 1.2.0
 title: "Geometric Networks"
-version: 1.0
-doi: 10.5281/zenodo.16592265
-date-created: 2024-10-12
-date-released: 2024-10-12
+version: 0.1.0                
+date-created: 2024-10-12     
+# date-released: 2024-10-12
 authors:
   - family-names: Tohouri  
-    given-names: Pascal 
-    # orcid: "https://orcid.org/0000-000X-XXXX-XXXX"
+    given-names: Pascal
